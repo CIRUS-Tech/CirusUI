@@ -1,0 +1,165 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 375px;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_login_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+}
+
+#_bg__login_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	background:rgba(159.38,215.11,255,1);
+}
+
+
+#cirus_logo {
+	top: 48px;
+	left: 88px;
+	width: 200px;
+	height: 200px;
+}
+
+#username {
+	top: 274px;
+	left: 119px;
+	width: 138px;
+	height: 33px;
+}
+
+#rectangle_29 {
+	top: 0px;
+	left: 0px;
+	width: 138px;
+	height: 33px;
+}
+
+
+#username_ek1 {
+	top: 2px;
+	left: 14px;
+	width: 134px;
+	height: 45.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#or {
+	top: 491px;
+	left: 163px;
+	width: 52px;
+	height: 29px;
+}
+
+#or_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 65px;
+	height: 46.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#password {
+	top: 323px;
+	left: 119px;
+	width: 138px;
+	height: 58px;
+}
+
+#rectangle_29_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 138px;
+	height: 33px;
+}
+
+
+#password_ek1 {
+	top: 0px;
+	left: 13px;
+	width: 125.13px;
+	height: 75.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#login_ek3 {
+	top: 401px;
+	left: 119px;
+	width: 135px;
+	height: 33px;
+}
+
+#rectangle_29_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 135px;
+	height: 33px;
+}
+
+
+#log_in {
+	top: 0px;
+	left: 26px;
+	width: 87px;
+	height: 46.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+#sign_up {
+	top: 573px;
+	left: 118px;
+	width: 136px;
+	height: 33px;
+}
+
+#rectangle_29_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 136px;
+	height: 33px;
+}
+
+
+#sign_up_ek1 {
+	top: 0px;
+	left: 25px;
+	width: 99px;
+	height: 46.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
