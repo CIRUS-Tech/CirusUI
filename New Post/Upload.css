@@ -1,0 +1,221 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 375px;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_upload_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+}
+
+#_bg__upload_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	background:rgba(255,255,255,1);
+}
+
+
+#background {
+	top: 220px;
+	left: 0px;
+	width: 375px;
+	height: 590px;
+}
+
+
+#curved_below {
+	top: 522px;
+	left: 0px;
+	width: 376px;
+	height: 288px;
+}
+
+#your_profile {
+	top: 127px;
+	left: 26px;
+	width: 200px;
+	height: 70px;
+}
+
+#luka_nikabadze {
+	top: 0px;
+	left: 94px;
+	width: 113px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Habibi;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#public {
+	top: 24px;
+	left: 94px;
+	width: 113px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Habibi;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+#profile_pic_and_frame {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+}
+
+#ellipse_3 {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+}
+
+
+#image_2 {
+	top: 11px;
+	left: 11px;
+	width: 47.07px;
+	height: 51.29px;
+}
+
+
+#options_button {
+	top: 28px;
+	left: 139px;
+	width: 8px;
+	height: 8px;
+}
+
+
+#new_post {
+	top: 37.22px;
+	left: 18px;
+	width: 339px;
+	height: 69.22px;
+	overflow: hidden;
+	font-family: Habibi;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#post {
+	top: 6.22px;
+	left: 338px;
+	width: 30px;
+	height: 30px;
+}
+
+
+#exit {
+	top: 6px;
+	left: 6px;
+	width: 20px;
+	height: 20px;
+}
+
+#write_posts_s_description {
+	top: 442px;
+	left: 26px;
+	width: 381px;
+	height: 145.5px;
+}
+
+#rectangle_26 {
+	top: 0px;
+	left: 0px;
+	width: 312.8px;
+	height: 145.5px;
+}
+
+
+#add_description {
+	top: 8px;
+	left: 31px;
+	width: 256px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Habibi;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#add_hashtags {
+	top: 46px;
+	left: 31px;
+	width: 338.11px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Habibi;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#add_location {
+	top: 84px;
+	left: 31px;
+	width: 357px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Habibi;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#tag_people {
+	top: 122px;
+	left: 31px;
+	width: 246.39px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Habibi;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+#profile_pic_and_frame_ek1 {
+	top: 220px;
+	left: 81px;
+	width: 210px;
+	height: 210px;
+}
+
+#ellipse_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 210px;
+	height: 210px;
+}
+
+
+#image_2_ek1 {
+	top: 34px;
+	left: 34px;
+	width: 141.21px;
+	height: 153.88px;
+}
+
+
