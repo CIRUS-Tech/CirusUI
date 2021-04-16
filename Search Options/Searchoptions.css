@@ -1,0 +1,253 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 375px;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_search_options_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+}
+
+#_bg__search_options_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	background:rgba(255,255,255,1);
+}
+
+#search_page_with_options {
+	top: 0px;
+	left: 0px;
+	width: 383px;
+	height: 812px;
+}
+
+#rectangle_24 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+}
+
+#logo_and_search {
+	top: 41px;
+	left: 33px;
+	width: 337px;
+	height: 433px;
+}
+#search_button {
+	top: 0px;
+	left: 0px;
+	width: 337px;
+	height: 52px;
+}
+
+#search_button_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 337px;
+	height: 50px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	background:rgba(255,255,255,1);
+}
+
+
+#options_button {
+	top: 18px;
+	left: 299px;
+	width: 15.28px;
+	height: 14px;
+}
+
+
+#search_text {
+	top: 13px;
+	left: 37px;
+	width: 127px;
+	height: 52px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#vector {
+	top: 18px;
+	left: 10px;
+	width: 15.72px;
+	height: 17.49px;
+}
+
+
+#cirus_logo {
+	top: 233px;
+	left: 54px;
+	width: 200px;
+	height: 200px;
+}
+
+#search_options_ek3 {
+	top: 0px;
+	left: 116px;
+	width: 267px;
+	height: 812px;
+}
+
+#search_options_ek4 {
+	top: 0px;
+	left: 1px;
+	width: 257.73px;
+	height: 812px;
+	background:rgba(44.71,143.75,214.62,1);
+}
+
+#x_button {
+	top: 0px;
+	left: 232px;
+	width: 35px;
+	height: 35px;
+}
+
+#vector_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 35px;
+	height: 35px;
+}
+
+
+#vector_ek2 {
+	top: 13px;
+	left: 0px;
+	width: 20.42px;
+	height: 20.42px;
+}
+
+#options_1 {
+	top: 77px;
+	left: 0px;
+	width: 256.39px;
+	height: 34px;
+}
+
+#option_1 {
+	top: 0px;
+	left: 0px;
+	width: 256.39px;
+	height: 34px;
+	background:rgba(26.92,105.36,161.5,1);
+}
+
+
+#option_2 {
+	top: 0px;
+	left: 0px;
+	width: 12.63px;
+	height: 34px;
+	background:rgba(5.64,58.71,96.69,1);
+}
+
+
+#search_by_a_record {
+	top: 8px;
+	left: 13px;
+	width: 251px;
+	height: 25.82px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#options_2 {
+	top: 118px;
+	left: 0px;
+	width: 256.39px;
+	height: 34px;
+}
+
+#option_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 256.39px;
+	height: 34px;
+	background:rgba(26.92,105.36,161.5,1);
+}
+
+
+#option_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 12.63px;
+	height: 34px;
+	background:rgba(5.64,58.71,96.69,1);
+}
+
+
+#search_by_a_profile {
+	top: 8px;
+	left: 13px;
+	width: 251px;
+	height: 25.82px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#options_3 {
+	top: 161px;
+	left: 0px;
+	width: 257.66px;
+	height: 34px;
+}
+
+#option_1_ek2 {
+	top: 0px;
+	left: 1px;
+	width: 256.39px;
+	height: 34px;
+	background:rgba(26.92,105.36,161.5,1);
+}
+
+
+#option_2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 12.63px;
+	height: 34px;
+	background:rgba(5.64,58.71,96.69,1);
+}
+
+
+#search_by_a_hashtag {
+	top: 8px;
+	left: 13px;
+	width: 251px;
+	height: 25.82px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 14px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
