@@ -1,0 +1,185 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 375px;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_sign_up_new_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+}
+
+#_bg__sign_up_new_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	background:rgba(255,255,255,1);
+}
+
+#login {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+}
+
+#rectangle_24 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+}
+
+
+#cirus_logo {
+	top: 48px;
+	left: 88px;
+	width: 200px;
+	height: 200px;
+}
+
+#username {
+	top: 273px;
+	left: 119px;
+	width: 138px;
+	height: 33px;
+}
+
+#rectangle_29 {
+	top: 0px;
+	left: 0px;
+	width: 138px;
+	height: 33px;
+}
+
+
+#first_name {
+	top: 2px;
+	left: 9px;
+	width: 137px;
+	height: 45.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#username_ek1 {
+	top: 337px;
+	left: 119px;
+	width: 138px;
+	height: 33px;
+}
+
+#rectangle_29_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 138px;
+	height: 33px;
+}
+
+
+#last_name {
+	top: 2px;
+	left: 11px;
+	width: 134px;
+	height: 45.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#password {
+	top: 460px;
+	left: 121px;
+	width: 138px;
+	height: 60px;
+}
+
+#rectangle_29_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 138px;
+	height: 33px;
+}
+
+
+#password_ek1 {
+	top: 2px;
+	left: 14px;
+	width: 125.13px;
+	height: 75.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#email {
+	top: 399px;
+	left: 123px;
+	width: 135px;
+	height: 33px;
+}
+
+#rectangle_29_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 135px;
+	height: 33px;
+}
+
+
+#email_ek1 {
+	top: 2px;
+	left: 26px;
+	width: 87px;
+	height: 46.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+#sign_up {
+	top: 573px;
+	left: 118px;
+	width: 136px;
+	height: 33px;
+}
+
+#rectangle_29_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 136px;
+	height: 33px;
+}
+
+
+#sign_up_ek1 {
+	top: 0px;
+	left: 25px;
+	width: 99px;
+	height: 46.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
