@@ -1,0 +1,214 @@
+/*
+	@name untitled
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 375px;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_trim_your_voice_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+}
+
+#_bg__trim_your_voice_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	background:rgba(196.56,230.62,255,1);
+}
+
+
+#trim_your_sound {
+	top: 51px;
+	left: 20px;
+	width: 339px;
+	height: 92px;
+	overflow: hidden;
+	font-family: Habibi;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+#profile_pic_and_frame {
+	top: 130px;
+	left: 24px;
+	width: 326px;
+	height: 326px;
+}
+
+#ellipse_3 {
+	top: 0px;
+	left: 0px;
+	width: 326px;
+	height: 326px;
+}
+
+
+#image_2 {
+	top: 53px;
+	left: 53px;
+	width: 219.21px;
+	height: 238.88px;
+}
+
+
+#exit {
+	top: 15px;
+	left: 17px;
+	width: 17px;
+	height: 17px;
+}
+
+#next_arrow_button_to_post {
+	top: 5px;
+	left: 332px;
+	width: 33px;
+	height: 33px;
+}
+
+#vector {
+	top: 0px;
+	left: 0px;
+	width: 33px;
+	height: 33px;
+}
+
+
+#vector_ek1 {
+	top: 6.88px;
+	left: 2.75px;
+	width: 27.5px;
+	height: 19.25px;
+}
+
+#voice_trim_options {
+	top: 586px;
+	left: -1px;
+	width: 375px;
+	height: 212px;
+}
+
+#option_10 {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 183px;
+}
+
+
+#filter {
+	top: 192px;
+	left: 139px;
+	width: 100px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Habibi;
+	font-size: 13px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#image_5 {
+	top: 49px;
+	left: 0px;
+	width: 375px;
+	height: 131px;
+}
+
+
+#image_4 {
+	top: 0px;
+	left: 1px;
+	width: 374px;
+	height: 49px;
+}
+
+
+#rectangle_24 {
+	top: 0px;
+	left: 37px;
+	width: 7px;
+	height: 49px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_25 {
+	top: 0px;
+	left: 328px;
+	width: 7px;
+	height: 49px;
+	background:rgba(255,255,255,1);
+}
+
+
+#option_12 {
+	top: 769px;
+	left: 190px;
+	width: 184px;
+	height: 43px;
+}
+
+
+#_trim {
+	top: 778px;
+	left: 231px;
+	width: 100px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Habibi;
+	font-size: 13px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#filter_ek1 {
+	top: 778px;
+	left: 53px;
+	width: 100px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Habibi;
+	font-size: 13px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#rectangle_24_ek1 {
+	top: 769px;
+	left: 0px;
+	width: 191px;
+	height: 43px;
+}
+
+
+#filter_ek2 {
+	top: 778px;
+	left: 44px;
+	width: 100px;
+	height: 29.5px;
+	overflow: hidden;
+	font-family: Habibi;
+	font-size: 13px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
